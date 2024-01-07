@@ -9,7 +9,7 @@
 
 ## 前言
 
-该项目为前后端分离项目的前端部分，后端项目`mall`地址：[传送门](https://github.com/macrozheng/mall) 。
+该项目为前后端分离项目的后端部分，前端项目`mall`地址：[传送门](https://github.com/macrozheng/mall) 。
 
 ## 项目介绍
 
